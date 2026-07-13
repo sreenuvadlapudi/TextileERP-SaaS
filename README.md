@@ -126,7 +126,7 @@ npm run dev
 
 **Founder & Team Lead**
 
-Sreenivasulu Vadlapudi
+Sreenu v
 
 Startup: **Nexhaura**
 
